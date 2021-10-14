@@ -1,0 +1,1 @@
+require_relative '../lib/cher_depute'
